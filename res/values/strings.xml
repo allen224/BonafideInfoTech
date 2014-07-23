@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BonafideInfoTech</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo_desc">This is the logo of Bonafide InfoTech Inc.</string>
+    <string name="space">space</string>
+    
+    <!-- home menus -->
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="services">SERVICES</string>
+    <string name="contact_us">CONTACT US</string>
+    
+    <!-- for about -->
+    <string name="company_desc">Bonafide Info Tech Inc is</string>
+    <string name="Mission">Mission</string>
+    <string name="Vision">Vision</string>
+
+</resources>
