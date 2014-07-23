@@ -26,5 +26,13 @@
 We are the Philippine representative of ​CX Bonafide Infotech Singapore . Located at 6 Ubi Road 1, Win Tech Center, #05-10, Singapore.</string>
     <string name="Mission">Mission</string>
     <string name="Vision">Vision</string>
+    
+    <!-- for services -->
+    <string name="ios_apps">iOS Apps</string>
+    <string name="ios_desc">We constantly push the boundaries when it comes to iOS development. In the high-end iOS solutions market, and despite strong, diverse, and resourceful competition, our approach to client requirements sets us apart. Our talented mobile developers collaborate to ensure we\'ll deliver the best, cost-effective service and solutions.</string>
+    <string name="android_apps">Android Apps</string>
+    <string name="android_desc">Nowadays, more and more people utilize Android phones and tablets thanks to their affordable prices and ease of use. With this increase in usage, we offer you an edge over your competitors by offering Android app development services based on your products and service.</string>
+    <string name="web_dev">Website Development</string>
+    <string name="web_desc">We adhere to our clients\’ branding rules and vision, ensuring a custom fit aligned with our client. Each website is elegantly designed and built to rank well on search engines for the right words customers use, with a look which is the same on any Internet device.</string>
 
 </resources>

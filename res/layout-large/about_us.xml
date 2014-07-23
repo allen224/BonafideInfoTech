@@ -8,8 +8,8 @@
     <ImageView
         android:id="@+id/imageView1"
         android:layout_marginTop="20dp"
-        android:layout_width="150dip"
-        android:layout_height="150dip"
+        android:layout_width="200dip"
+        android:layout_height="200dip"
         android:layout_gravity="center"
         android:src="@drawable/bonafide_logo"
         android:contentDescription="@string/logo_desc" />
@@ -21,12 +21,12 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:gravity="center"
-        android:paddingLeft="20dp"
-        android:paddingRight="20dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
         android:text="@string/company_desc"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="#eeeeee"
-        android:textSize="@dimen/details" />
+        android:textSize="@dimen/detailslarge" />
 
     <TextView
         android:id="@+id/textView2"
@@ -35,12 +35,12 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:gravity="center"
-        android:paddingLeft="20dp"
-        android:paddingRight="20dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/company_desc2"
         android:textColor="#eeeeee"
-        android:textSize="@dimen/details" />
+        android:textSize="@dimen/detailslarge" />
 
    
 

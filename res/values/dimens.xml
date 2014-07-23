@@ -4,5 +4,8 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="details">12dip</dimen>
+    <dimen name="detailslarge">20dip</dimen>
+    <dimen name="detailsxlarge">30dip</dimen>
+    
 
 </resources>

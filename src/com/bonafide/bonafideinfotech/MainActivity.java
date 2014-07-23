@@ -16,13 +16,32 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        TextView tv = (TextView)findViewById(R.id.about_us);
+       /* BitmapFactory.Options default = new BitmapFactory.Options();
+        default.inDensity = <density of loaded resource>
+        default.inTargetDensity = 
+        getResources().getDisplayMetrics().densityDpi;*/
+
         
-        tv.setOnClickListener(new View.OnClickListener() {
+        TextView aboutUsText = (TextView)findViewById(R.id.about_us);
+        
+        aboutUsText.setOnClickListener(new View.OnClickListener() {
         	   @Override
         	   public void onClick(View v) {
         	      // TODO Auto-generated method stub
         		   Intent callIntent = new Intent(MainActivity.this, About_us.class);
+        		   startActivity(callIntent);
+        	   }
+        	});
+        
+        //our services text
+        TextView btnOurServices = (TextView)findViewById(R.id.services);
+        
+        //if our services is Clicked:
+        btnOurServices.setOnClickListener(new View.OnClickListener() {
+        	   @Override
+        	   public void onClick(View v) {
+        	      // TODO Auto-generated method stub
+        		   Intent callIntent = new Intent(MainActivity.this, Our_services.class);
         		   startActivity(callIntent);
         	   }
         	});
