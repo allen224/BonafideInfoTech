@@ -14,7 +14,16 @@
     <string name="contact_us">CONTACT US</string>
     
     <!-- for about -->
-    <string name="company_desc">Bonafide Info Tech Inc is</string>
+    <string name="company_desc"><![CDATA[Bonafide Infotech, Inc. is a software development company that specializes in custom software, web and mobile applications that utilizes the latest cutting edge technology to create custom fit software based on the highest engineering standards that provide the best user-experience.
+         ​ 
+
+]]>​</string>
+	<string name="company_desc2">We are an innovative company, backed by its team of seasoned developers and programmers that creates and delivers world class, tailor fit systems and applications that keeps you and your business ahead of the competition.​ 
+
+</string>
+	<string name="company_desc3">We are located at IBM Building 14/F Unit EF, IBM Plaza 8 Eastwood Avenue Eastwood City Cyberpark E. Rodriguez - Jr. Avenue 1110 Libis - Quezon City Philippines. 
+
+We are the Philippine representative of ​CX Bonafide Infotech Singapore . Located at 6 Ubi Road 1, Win Tech Center, #05-10, Singapore.</string>
     <string name="Mission">Mission</string>
     <string name="Vision">Vision</string>
 
